@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status ,#number_of_objects, #start_model
+{
+font-size: 18px;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    box-shadow: 13px 13px 13px rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top:30px;
+  }
+#text
+{
+    color: aqua;
+}
